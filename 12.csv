@@ -1,0 +1,216 @@
+sector,month(month),inv
+"Agro based incl Cold Storages",1,80.9
+"Agro based incl Cold Storages",2,50.7
+"Agro based incl Cold Storages",3,291.2
+"Agro based incl Cold Storages",4,113.2
+"Agro based incl Cold Storages",5,148.2
+"Agro based incl Cold Storages",6,605.8
+"Agro based incl Cold Storages",7,137.6
+"Agro based incl Cold Storages",8,98.5
+"Agro based incl Cold Storages",9,208
+"Agro based incl Cold Storages",10,88.2
+"Agro based incl Cold Storages",11,65.1
+"Agro based incl Cold Storages",12,213.2
+Automobile,1,1254.3
+Automobile,2,0.1
+Automobile,3,7.3
+Automobile,4,2.2
+Automobile,5,51
+Automobile,6,0.5
+Automobile,7,37.1
+Automobile,10,221.4
+Automobile,11,0.4
+Automobile,12,1
+Beverages,1,861.6
+Beverages,2,687.1
+Beverages,3,14.6
+Beverages,4,18.6
+Beverages,5,344.9
+Beverages,6,17.8
+Beverages,7,15.2
+Beverages,8,2.9
+Beverages,9,9.7
+Beverages,10,109.2
+Beverages,11,432.6
+Beverages,12,295.6
+"Cement, Cement & Concrete Products, Fly Ash Bricks",1,39.6
+"Cement, Cement & Concrete Products, Fly Ash Bricks",2,102.1
+"Cement, Cement & Concrete Products, Fly Ash Bricks",3,125
+"Cement, Cement & Concrete Products, Fly Ash Bricks",4,65.7
+"Cement, Cement & Concrete Products, Fly Ash Bricks",5,59.7
+"Cement, Cement & Concrete Products, Fly Ash Bricks",6,436.3
+"Cement, Cement & Concrete Products, Fly Ash Bricks",7,279.1
+"Cement, Cement & Concrete Products, Fly Ash Bricks",8,977.1
+"Cement, Cement & Concrete Products, Fly Ash Bricks",9,35.8
+"Cement, Cement & Concrete Products, Fly Ash Bricks",10,32.7
+"Cement, Cement & Concrete Products, Fly Ash Bricks",11,49.5
+"Cement, Cement & Concrete Products, Fly Ash Bricks",12,36
+"Electrical and Electronic Products",1,269.4
+"Electrical and Electronic Products",2,51.5
+"Electrical and Electronic Products",3,59.1
+"Electrical and Electronic Products",4,41
+"Electrical and Electronic Products",5,42.7
+"Electrical and Electronic Products",6,104.4
+"Electrical and Electronic Products",7,175.7
+"Electrical and Electronic Products",8,27.7
+"Electrical and Electronic Products",9,63.7
+"Electrical and Electronic Products",10,36.3
+"Electrical and Electronic Products",11,40.7
+"Electrical and Electronic Products",12,29.4
+Engineering,1,192.8
+Engineering,2,1332.5
+Engineering,3,451.7
+Engineering,4,209.7
+Engineering,5,343.1
+Engineering,6,220.8
+Engineering,7,257.4
+Engineering,8,359.1
+Engineering,9,242.5
+Engineering,10,688.3
+Engineering,11,286.1
+Engineering,12,440.6
+"Fertlizers Organic and Inorganic,Pesticides,Insecticides, and Other Related",1,11.8
+"Fertlizers Organic and Inorganic,Pesticides,Insecticides, and Other Related",2,12.4
+"Fertlizers Organic and Inorganic,Pesticides,Insecticides, and Other Related",3,17.9
+"Fertlizers Organic and Inorganic,Pesticides,Insecticides, and Other Related",4,8
+"Fertlizers Organic and Inorganic,Pesticides,Insecticides, and Other Related",5,3.7
+"Fertlizers Organic and Inorganic,Pesticides,Insecticides, and Other Related",6,8.4
+"Fertlizers Organic and Inorganic,Pesticides,Insecticides, and Other Related",7,6.5
+"Fertlizers Organic and Inorganic,Pesticides,Insecticides, and Other Related",8,9.2
+"Fertlizers Organic and Inorganic,Pesticides,Insecticides, and Other Related",9,53.9
+"Fertlizers Organic and Inorganic,Pesticides,Insecticides, and Other Related",10,8.8
+"Fertlizers Organic and Inorganic,Pesticides,Insecticides, and Other Related",11,3.5
+"Fertlizers Organic and Inorganic,Pesticides,Insecticides, and Other Related",12,5274.3
+"Food Processing",1,241.9
+"Food Processing",2,282.7
+"Food Processing",3,549.4
+"Food Processing",4,176
+"Food Processing",5,285.8
+"Food Processing",6,193.4
+"Food Processing",7,347.1
+"Food Processing",8,263.1
+"Food Processing",9,441.6
+"Food Processing",10,374.6
+"Food Processing",11,486.5
+"Food Processing",12,474
+"Granite and Stone Crushing",1,170.6
+"Granite and Stone Crushing",2,83.1
+"Granite and Stone Crushing",3,93
+"Granite and Stone Crushing",4,127.1
+"Granite and Stone Crushing",5,253.7
+"Granite and Stone Crushing",6,312.3
+"Granite and Stone Crushing",7,73.4
+"Granite and Stone Crushing",8,81.6
+"Granite and Stone Crushing",9,69.5
+"Granite and Stone Crushing",10,397.5
+"Granite and Stone Crushing",11,176.8
+"Granite and Stone Crushing",12,83.7
+"Industrial Parks and IT Buildings",2,280.4
+Others,1,286
+Others,2,259.3
+Others,3,204.7
+Others,4,122.2
+Others,5,124.3
+Others,6,424.9
+Others,7,744.6
+Others,8,266.4
+Others,9,77.3
+Others,10,54
+Others,11,73.5
+Others,12,592.3
+"Paper and Printing",1,75.9
+"Paper and Printing",2,180
+"Paper and Printing",3,242.9
+"Paper and Printing",4,48.1
+"Paper and Printing",5,24.6
+"Paper and Printing",6,26.8
+"Paper and Printing",7,1061.7
+"Paper and Printing",8,93
+"Paper and Printing",9,35.2
+"Paper and Printing",10,28.1
+"Paper and Printing",11,1001.4
+"Paper and Printing",12,128.4
+"Pharmaceuticals and Chemicals",1,936.9
+"Pharmaceuticals and Chemicals",2,1857.5
+"Pharmaceuticals and Chemicals",3,750.9
+"Pharmaceuticals and Chemicals",4,294.6
+"Pharmaceuticals and Chemicals",5,484
+"Pharmaceuticals and Chemicals",6,1694
+"Pharmaceuticals and Chemicals",7,2807.1
+"Pharmaceuticals and Chemicals",8,953.8
+"Pharmaceuticals and Chemicals",9,2139.8
+"Pharmaceuticals and Chemicals",10,930.5
+"Pharmaceuticals and Chemicals",11,900.6
+"Pharmaceuticals and Chemicals",12,2108.5
+"Plastic and Rubber",1,1803.2
+"Plastic and Rubber",2,272.7
+"Plastic and Rubber",3,750.9
+"Plastic and Rubber",4,1093.4
+"Plastic and Rubber",5,74
+"Plastic and Rubber",6,634.2
+"Plastic and Rubber",7,330
+"Plastic and Rubber",8,1567.6
+"Plastic and Rubber",9,523.7
+"Plastic and Rubber",10,295
+"Plastic and Rubber",11,346.9
+"Plastic and Rubber",12,1958.3
+R&D,1,229.4
+R&D,2,463.8
+R&D,3,478.7
+R&D,4,639.6
+R&D,5,152.4
+R&D,6,359.3
+R&D,7,355.8
+R&D,8,193.8
+R&D,9,489.3
+R&D,10,42.1
+R&D,11,46.9
+R&D,12,69.7
+"Real Estate,Industrial Parks and IT Buildings",1,1397.2
+"Real Estate,Industrial Parks and IT Buildings",2,17843.4
+"Real Estate,Industrial Parks and IT Buildings",3,3399
+"Real Estate,Industrial Parks and IT Buildings",4,822.7
+"Real Estate,Industrial Parks and IT Buildings",5,903.3
+"Real Estate,Industrial Parks and IT Buildings",6,270.8
+"Real Estate,Industrial Parks and IT Buildings",7,1124.2
+"Real Estate,Industrial Parks and IT Buildings",8,2007.7
+"Real Estate,Industrial Parks and IT Buildings",9,283.4
+"Real Estate,Industrial Parks and IT Buildings",10,904.5
+"Real Estate,Industrial Parks and IT Buildings",11,822.1
+"Solar and Other Renewable Energy",1,246.8
+"Solar and Other Renewable Energy",2,4.4
+"Solar and Other Renewable Energy",3,151.6
+"Solar and Other Renewable Energy",4,1202.9
+"Solar and Other Renewable Energy",5,98.5
+"Solar and Other Renewable Energy",6,1109.5
+"Solar and Other Renewable Energy",7,327.8
+"Solar and Other Renewable Energy",8,37.4
+"Solar and Other Renewable Energy",9,409.5
+"Solar and Other Renewable Energy",10,0.8
+"Solar and Other Renewable Energy",11,2008.2
+"Solar and Other Renewable Energy",12,42.4
+Textiles,1,63.3
+Textiles,2,56.2
+Textiles,3,66.2
+Textiles,4,15.1
+Textiles,5,37.9
+Textiles,6,51.1
+Textiles,7,81.5
+Textiles,8,104.2
+Textiles,9,1191.8
+Textiles,10,87
+Textiles,11,44.7
+Textiles,12,45.4
+"Thermal Power Plant",8,87
+"Wood and Leather",1,22.4
+"Wood and Leather",2,10.1
+"Wood and Leather",3,5.3
+"Wood and Leather",4,6.9
+"Wood and Leather",5,5
+"Wood and Leather",6,13.1
+"Wood and Leather",7,11.4
+"Wood and Leather",8,10.1
+"Wood and Leather",9,40.6
+"Wood and Leather",10,2.9
+"Wood and Leather",11,14.8
+"Wood and Leather",12,9.8
